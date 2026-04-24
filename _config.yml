@@ -1,7 +1,7 @@
 title: "BLAST Lab"
 description: "Borderless Authentication & Secure Smart Things Lab"
 url: "https://hb-blastlab.github.io"           # GitHub Pages 배포 URL (변경 필요)
-baseurl: "/blast"                                    # 서브디렉토리 배포 시 "/repo-name"
+baseurl: ""                                    # 서브디렉토리 배포 시 "/repo-name"
 
 # Author
 author:
